@@ -22,6 +22,10 @@ img {
     margin-bottom: 5px;
 }
 
+#images{
+    text-align: center;
+}
+
 
 @media (min-width: 768px){
 
@@ -44,3 +48,26 @@ img {
 
     
 }
+
+@media (min-width: 971px){
+
+    .desktop.txtcenter {
+        display : block;
+    }
+    .tablette.txtcenter {
+        display: none;
+        
+    }
+    
+    img {
+        width: 40%;
+        display: inline-block;
+        margin-left: 20px;
+        margin-bottom: 15px;
+        margin-top: 5px;
+    }
+
+    
+}
+
+
