@@ -60,10 +60,31 @@ img {
     }
     
     img {
-        width: 40%;
+        width: 456px;
         display: inline-block;
-        margin-left: 20px;
-        margin-bottom: 15px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+
+    
+}
+
+@media (min-width: 1371px){
+
+    .desktopG.txtcenter {
+        display : block;
+    }
+    .desktop.txtcenter {
+        display: none;
+        
+    }
+    
+    img {
+        width: 20%;
+        display: inline-block;
+        margin-left: 10px;
+        margin-bottom: 0;
         margin-top: 5px;
     }
 
