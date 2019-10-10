@@ -21,3 +21,26 @@ img {
     display: block;
     margin-bottom: 5px;
 }
+
+
+@media (min-width: 768px){
+
+    .telephone.txtcenter {
+        display : none;
+    }
+    .tablette.txtcenter {
+        display: block;
+        
+    }
+    
+    img{
+        width : 48%;
+        display: inline-block;
+        margin-left: 10px;
+        margin-bottom: 10px;
+       
+        
+    }
+
+    
+}
