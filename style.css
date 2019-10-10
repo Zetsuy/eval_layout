@@ -1,0 +1,23 @@
+.txtcenter{
+    text-align: center;
+}
+
+.desktopG.txtcenter {
+    display: none;
+}
+
+.desktop.txtcenter {
+    display: none;
+}
+
+.tablette.txtcenter {
+    display: none;
+}
+
+img {
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 5px;
+}
